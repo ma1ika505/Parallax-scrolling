@@ -30,7 +30,7 @@ body { margin: 0;
   width: 3000px;  
   height: 3000px;
   position: absolute;
-  bottom: -290%; 
+  bottom: -270%; 
   left: -100%;
   background-image: url('https://www.freeiconspng.com/uploads/moon-png--0.png');
   background-size: contain;
@@ -102,7 +102,7 @@ body { margin: 0;
 .ship {
   position: fixed;
   top: 84%;
-  left: -22%;
+  left: -30%;
   width: 400px;
   height: 400px;
   z-index: 4;
@@ -192,4 +192,5 @@ body { margin: 0;
   padding: 100px;
 
 }
+
 
